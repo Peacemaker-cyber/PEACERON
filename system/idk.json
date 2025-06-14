@@ -1,0 +1,13 @@
+{
+    "anticall": {
+        "enabled": true
+    },
+    "antispam": {
+        "enabled": true,
+        "maxMessages": 5,
+        "timeFrame": 60
+    },
+    "antilink": {
+        "enabled": true
+    }
+}
