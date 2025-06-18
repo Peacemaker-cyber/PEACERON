@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="700"/>
+  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="1000"/>
 </p>
 
 <p align="left">
