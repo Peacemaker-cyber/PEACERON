@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="100"/>
+  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="200"/>
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Peacemaker-cyber/PEACE-MD">
     <img src="https://img.shields.io/badge/🌌%20Deploy%20to%20Koyeb-1F1F1F?style=for-the-badge&logo=koyeb&logoColor=white"/>
   </a>
