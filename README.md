@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="140"/>
+  <img src="https://files.catbox.moe/y3ifqx.jpg" alt="PEACE-MD Logo" width="100"/>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Peacemaker-cyber/PEACE-MD"><img src="https://img.shields.io/github/repo-size/Peacemaker-cyber/PEACE-MD?color=brightgreen&style=for-the-badge&logo=github" alt="Repo Size"/></a>
   <a href="https://github.com/Peacemaker-cyber/PEACE-MD"><img src="https://img.shields.io/github/forks/Peacemaker-cyber/PEACE-MD?style=for-the-badge&logo=github" alt="Forks"/></a>
   <a href="https://github.com/Peacemaker-cyber/PEACE-MD"><img src="https://img.shields.io/github/stars/Peacemaker-cyber/PEACE-MD?style=for-the-badge&color=yellow&logo=github" alt="Stars"/></a>
