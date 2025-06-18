@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://peace-md-5egf.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🧩%20Generate%20Session-009688?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🧩%20Generate%20Session-009688?style=for-the-badge&logo=whatsapp&logoColororange"/>
   </a>
   <a href="https://heroku.com/deploy?template=https://github.com/Peacemaker-cyber/Unknown-Error-">
     <img src="https://img.shields.io/badge/🚀%20Deploy%20to%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white"/>
